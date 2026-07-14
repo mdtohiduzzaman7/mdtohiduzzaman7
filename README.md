@@ -4,25 +4,10 @@
 
 ### 🚀 Full Stack Developer | Building Scalable Web Applications
 
-<div align="center">
-
-<a href="https://resume-puce-one-97.vercel.app/" target="_blank">
-Portfolio
-</a>
-•
-<a href="https://www.linkedin.com/in/mdtohiduzzaman7/" target="_blank">
-LinkedIn
-</a>
-•
-<a href="https://github.com/mdtohiduzzaman7" target="_blank">
-GitHub
-</a>
-•
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com" target="_blank">
-📧 Email Me
-</a>
-
-</div>
+[Portfolio](https://resume-puce-one-97.vercel.app/) • 
+[LinkedIn](https://www.linkedin.com/in/mdtohiduzzaman7/) • 
+[GitHub](https://github.com/mdtohiduzzaman7) • 
+[📧 Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express.js+Backend;Golang+Backend+Developer;MongoDB+%26+PostgreSQL+Developer" />
 
@@ -232,14 +217,7 @@ https://github.com/mdtohiduzzaman7/resume
 | 🌐 Portfolio | https://resume-puce-one-97.vercel.app |
 | 🐙 GitHub | https://github.com/mdtohiduzzaman7 |
 | 💼 LinkedIn | https://linkedin.com/in/mdtohiduzzaman7 |
-| 📧 Email | [mdtohiduzzaman7@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com) |
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | <a href="https://resume-puce-one-97.vercel.app/" target="_blank">https://resume-puce-one-97.vercel.app</a> |
-| 🐙 GitHub | <a href="https://github.com/mdtohiduzzaman7" target="_blank">https://github.com/mdtohiduzzaman7</a> |
-| 💼 LinkedIn | <a href="https://linkedin.com/in/mdtohiduzzaman7" target="_blank">https://linkedin.com/in/mdtohiduzzaman7</a> |
-| 📧 Email | <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com" target="_blank">mdtohiduzzaman7@gmail.com</a> |
+| 📧 Email | [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com) |
 
 </div>
 
