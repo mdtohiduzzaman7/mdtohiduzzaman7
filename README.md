@@ -9,54 +9,66 @@
 [GitHub](https://github.com/mdtohiduzzaman7) • 
 [Email](mailto:mdtohiduzzaman7@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express+Backend;MongoDB+%26+PostgreSQL+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express.js+Backend;Golang+Backend+Developer;MongoDB+%26+PostgreSQL+Developer" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** specializing in modern web technologies.  
-I love creating clean, responsive, and scalable web applications that solve real-world problems.
+I'm a passionate **Full Stack Developer** specializing in modern frontend and backend technologies.
+
+I build scalable, responsive, and user-friendly web applications using **React, Next.js, Node.js, Golang, PostgreSQL, and MongoDB**.
 
 - 🎯 **Goal:** Become a world-class Software Engineer
-- 🌱 **Currently Learning:** Advanced Next.js, System Design & Cloud Technologies
-- 💙 **Passion:** Building intuitive user experiences with powerful backend solutions
+- 🌱 **Currently Learning:** System Design, Advanced Next.js & Golang Backend
+- 💙 **Passion:** Building impactful products with clean architecture
 - ⚡ **Approach:** Writing clean, maintainable, and scalable code
 - 🚀 **Driven by:** Problem-solving and continuous improvement
 
-**📍 Location:** Bangladesh  
-**🌐 Available for:** Remote | Onsite | Hybrid
+📍 **Location:** Bangladesh  
+🌐 **Available For:** Remote | Onsite | Hybrid
+
 
 ---
 
 # 💻 Technical Skills
 
+
 ## 🎨 Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
-## ⚙️ Backend Development
+# ⚙️ Backend Development
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![JWT Authentication](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 
 ---
 
-## 🗄️ Database & ORM
+# 🗄️ Database & ORM
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -64,15 +76,14 @@ I love creating clean, responsive, and scalable web applications that solve real
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+
 ---
 
-## 🛠️ Tools & DevOps
+# 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -82,13 +93,16 @@ I love creating clean, responsive, and scalable web applications that solve real
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
 ---
 
 # 🌟 Featured Project
 
+
 ## 📄 Resume Portfolio Website
 
-A modern, fully responsive portfolio website built with modern technologies.
+A modern and fully responsive portfolio website built with Next.js.
+
 
 ### 🚀 Tech Stack
 
@@ -98,34 +112,31 @@ A modern, fully responsive portfolio website built with modern technologies.
 - React Icons
 - Framer Motion
 
+
 ### ✨ Features
 
-- 📱 Fully Responsive Design
-- 🎨 Modern UI/UX
-- 🌙 Dark/Light Mode
-- ⚡ Optimized Performance
-- 📊 Skills & Project Showcase
+✅ Responsive Design  
+✅ Modern UI/UX  
+✅ Dark/Light Theme  
+✅ Smooth Animations  
+✅ SEO Optimized  
+✅ Fast Performance  
 
-🔗 **Live Demo:**  
+
+🔗 **Live Demo**
+
 https://resume-puce-one-97.vercel.app/
 
-📂 **Source Code:**  
+
+📂 **Source Code**
+
 https://github.com/mdtohiduzzaman7/resume
 
----
-
-# 🐳 Docker Skills
-
-- Creating Docker images
-- Writing Dockerfile
-- Containerizing Node.js applications
-- Docker Compose
-- Running databases with Docker
-- Development environment setup using containers
 
 ---
 
 # 📊 GitHub Analytics
+
 
 <p align="center">
 
@@ -142,9 +153,11 @@ https://github.com/mdtohiduzzaman7/resume
 
 </p>
 
+
 ---
 
 # 🏆 Achievements
+
 
 <p align="center">
 
@@ -152,9 +165,11 @@ https://github.com/mdtohiduzzaman7/resume
 
 </p>
 
+
 ---
 
 # 📈 Contribution Activity
+
 
 <p align="center">
 
@@ -162,37 +177,28 @@ https://github.com/mdtohiduzzaman7/resume
 
 </p>
 
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | https://resume-puce-one-97.vercel.app |
-| 🐙 GitHub | https://github.com/mdtohiduzzaman7 |
-| 💼 LinkedIn | https://linkedin.com/in/mdtohiduzzaman7 |
-| 📧 Email | mdtohiduzzaman7@gmail.com |
-
-</div>
-
 
 ---
 
 # 💡 Currently Working On
 
-- 🔥 Building full-stack applications with Next.js
-- 📚 Learning System Design, DSA & Algorithms
-- 🐳 Improving Docker & DevOps skills
-- 🚀 Contributing to Open Source projects
+
+🔥 Building Full Stack applications with Next.js & Golang
+
+📚 Learning System Design, DSA & Algorithms
+
+🚀 Improving Backend Architecture and API Development
+
+🌱 Exploring new technologies
 
 
 ---
 
 # 📖 Development Philosophy
 
+
 > "Write code that the next person will love. Make it clean, maintainable, and meaningful."
+
 
 ✅ Clean & readable code  
 ✅ Scalable architecture  
@@ -203,11 +209,33 @@ https://github.com/mdtohiduzzaman7/resume
 
 ---
 
+# 🤝 Connect With Me
+
+
 <div align="center">
+
+
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | https://resume-puce-one-97.vercel.app |
+| 🐙 GitHub | https://github.com/mdtohiduzzaman7 |
+| 💼 LinkedIn | https://linkedin.com/in/mdtohiduzzaman7 |
+| 📧 Email | mdtohiduzzaman7@gmail.com |
+
+
+</div>
+
+
+---
+
+<div align="center">
+
 
 ### ⭐ If you like my work, consider starring my repositories!
 
-### Let's build something amazing together 🚀
+
+### 🚀 Let's build something amazing together!
+
 
 </div>
 
