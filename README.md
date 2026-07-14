@@ -7,7 +7,7 @@
 [Portfolio](https://resume-puce-one-97.vercel.app/) • 
 [LinkedIn](https://www.linkedin.com/in/mdtohiduzzaman7/) • 
 [GitHub](https://github.com/mdtohiduzzaman7) • 
-[Email](mailto:mdtohiduzzaman7@gmail.com)
+[📧 Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express.js+Backend;Golang+Backend+Developer;MongoDB+%26+PostgreSQL+Developer" />
 
@@ -34,7 +34,6 @@ I build scalable, responsive, and user-friendly web applications using **React, 
 ---
 
 # 💻 Technical Skills
-
 
 ## 🎨 Frontend Development
 
@@ -102,11 +101,9 @@ I build scalable, responsive, and user-friendly web applications using **React, 
 
 # 🌟 Featured Project
 
-
 ## 📄 Resume Portfolio Website
 
 A modern and fully responsive portfolio website built with Next.js.
-
 
 ### 🚀 Tech Stack
 
@@ -142,7 +139,6 @@ https://github.com/mdtohiduzzaman7/resume
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdtohiduzzaman7&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -163,7 +159,6 @@ https://github.com/mdtohiduzzaman7/resume
 
 # 🏆 Achievements
 
-
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=mdtohiduzzaman7&theme=tokyonight&row=1&column=7&no-bg=true&no-frame=true"/>
@@ -175,7 +170,6 @@ https://github.com/mdtohiduzzaman7/resume
 
 # 📈 Contribution Activity
 
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtohiduzzaman7&theme=tokyo-night&hide_border=true"/>
@@ -186,7 +180,6 @@ https://github.com/mdtohiduzzaman7/resume
 ---
 
 # 💡 Currently Working On
-
 
 🔥 Building Full Stack applications with Next.js & Golang
 
@@ -203,7 +196,6 @@ https://github.com/mdtohiduzzaman7/resume
 
 # 📖 Development Philosophy
 
-
 > "Write code that the next person will love. Make it clean, maintainable, and meaningful."
 
 
@@ -218,17 +210,14 @@ https://github.com/mdtohiduzzaman7/resume
 
 # 🤝 Connect With Me
 
-
 <div align="center">
-
 
 | Platform | Link |
 |---|---|
 | 🌐 Portfolio | https://resume-puce-one-97.vercel.app |
 | 🐙 GitHub | https://github.com/mdtohiduzzaman7 |
 | 💼 LinkedIn | https://linkedin.com/in/mdtohiduzzaman7 |
-| 📧 Email | mdtohiduzzaman7@gmail.com |
-
+| 📧 Email | [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com) |
 
 </div>
 
