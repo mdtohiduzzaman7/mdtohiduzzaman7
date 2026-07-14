@@ -217,7 +217,7 @@ https://github.com/mdtohiduzzaman7/resume
 | 🌐 Portfolio | https://resume-puce-one-97.vercel.app |
 | 🐙 GitHub | https://github.com/mdtohiduzzaman7 |
 | 💼 LinkedIn | https://linkedin.com/in/mdtohiduzzaman7 |
-| 📧 Email | [Send Email](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com) |
+| 📧 Email | [mdtohiduzzaman7@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mdtohiduzzaman7@gmail.com) |
 
 </div>
 
