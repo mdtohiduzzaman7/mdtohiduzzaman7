@@ -19,10 +19,10 @@
 
 I'm a passionate **Full Stack Developer** specializing in modern frontend and backend technologies.
 
-I build scalable, responsive, and user-friendly web applications using **React, Next.js, Node.js, Golang, PostgreSQL, and MongoDB**.
+I build scalable, responsive, and user-friendly web applications using **React, Next.js, Node.js, Golang, PostgreSQL, MongoDB, and Docker**.
 
 - 🎯 **Goal:** Become a world-class Software Engineer
-- 🌱 **Currently Learning:** System Design, Advanced Next.js & Golang Backend
+- 🌱 **Currently Learning:** System Design, Advanced Next.js, Golang Backend & Docker
 - 💙 **Passion:** Building impactful products with clean architecture
 - ⚡ **Approach:** Writing clean, maintainable, and scalable code
 - 🚀 **Driven by:** Problem-solving and continuous improvement
@@ -65,6 +65,8 @@ I build scalable, responsive, and user-friendly web applications using **React, 
 
 ![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -84,6 +86,8 @@ I build scalable, responsive, and user-friendly web applications using **React, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -111,6 +115,7 @@ A modern and fully responsive portfolio website built with Next.js.
 - Tailwind CSS
 - React Icons
 - Framer Motion
+- Docker
 
 
 ### ✨ Features
@@ -185,6 +190,8 @@ https://github.com/mdtohiduzzaman7/resume
 
 🔥 Building Full Stack applications with Next.js & Golang
 
+🐳 Containerizing applications using Docker
+
 📚 Learning System Design, DSA & Algorithms
 
 🚀 Improving Backend Architecture and API Development
@@ -230,12 +237,9 @@ https://github.com/mdtohiduzzaman7/resume
 
 <div align="center">
 
-
 ### ⭐ If you like my work, consider starring my repositories!
 
-
 ### 🚀 Let's build something amazing together!
-
 
 </div>
 
