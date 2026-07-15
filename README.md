@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" hight="50%" alt="Md. Tohiduzzaman Banner"/>
+<img src="banner.png" width="850px" alt="Md. Tohiduzzaman Banner"/>
 
 </div>
 
