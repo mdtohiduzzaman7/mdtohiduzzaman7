@@ -1,5 +1,14 @@
 <div align="center">
 
+<img src="banner.png" width="100%" alt="Md. Tohiduzzaman Banner"/>
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
 # 👋 Hi, I'm Md. Tohiduzzaman
 
 ### 🚀 Full Stack Developer | Building Scalable Web Applications
